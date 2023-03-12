@@ -31,10 +31,11 @@
 
 #Q4
 
-| Name of the program                       |What would you accomplish using that?                                    |                                                  |------------------------------------------|-------------------------------------------------------------------------|
-| VS CODE                             | IDE                                               |
-| Docker                               | Hassle free Deployment                                                |
-| Caprover                               | Manage Server and One click dockerized service deployment            |
+| Name of the Tool                       |What would you accomplish using that?                                    |                                                   
+|------------------------------------------|-------------------------------------------------------------------------|
+| VS CODE                                   | IDE                                                                     |
+| Docker                                    | Hassle free Deployment                                                  |
+| Caprover                                  | Manage Server and One click dockerized service deployment               |
 
 #Q5 
 
