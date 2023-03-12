@@ -74,8 +74,8 @@ function checkPermissions(req, res, next) {
 }
 
 // example route that requires permissions to access
-app.get('/posts/:id', checkPermissions, (req, res) => {
-  // code to fetch and return post with the given ID
+app.get('/medications/:id', checkPermissions, (req, res) => {
+  // code to fetch and return medication with the given ID
 });
 
 // example function to get permissions for a role and resource this can be replace with database and dynamic 
